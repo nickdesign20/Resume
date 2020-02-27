@@ -1,0 +1,202 @@
+*{
+    /* outline: 2px dashed green; */
+    margin: 0;
+    padding:0;
+}
+/* @media screen and (max-width: 600px) {
+.container {
+    height: 100%;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+        "q"
+        "h"
+        "e"
+        "b"
+        "f";
+}
+ */
+/* step one - build your grid */
+.container {
+    padding:10%;
+    /* height: 100%; */
+    display: grid;
+    grid-gap: 25px;
+    /* this will be  the same for everyone */
+    grid-template-columns: repeat(12, 1fr);
+    /* this will be customized, based on your grid, use pixels or % */
+    grid-template-rows: auto;
+    /* use letters from step 2 to build the grid */
+    grid-template-areas: 
+        "b b b b e e e e e e y y"
+        "b b b b e e e e e e y y"
+        "b b b b x x x x x x y y"
+        "b b b b c c c c c c y y"
+        "b b b b c c c c c c y y";
+}
+li{
+    font-weight: 300;
+    font-size: 15px;
+    padding:10px 50px;
+    margin-right: 100px;
+}
+
+body{
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(Untitled-1.svg);
+    background-repeat: no-repeat;
+}
+
+ul{
+    /* List-style can be used for things like bullets */
+    list-style: none;
+}
+
+
+h1{
+    font-size: 3em;
+    /* padding-top: 530px; */
+    padding-left: 50px;
+}
+
+h2{
+    padding-top:25px;
+    font-size: 30px;
+}
+
+h3{
+    padding-top:45px;
+    font-size: 18px;
+    padding-left: 30px;
+}
+
+h4 {
+    padding-top: 85px;
+    font-weight: 500;
+    padding-left: 50px;
+}
+
+h5{
+    padding-top: 90px;
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+h6{
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 16px;
+}
+
+.jobd{
+    padding-top: 2px;
+}
+
+.name{
+    padding-top: 300px;
+}
+
+.about{
+    padding-top: 35px;
+    margin-right: 100px;
+
+}
+
+.contact{
+    padding-top: 70px;
+    font-size: 20px;
+}
+
+.email{
+    padding-top: 30px;
+    font-size: 17px;
+    padding-left: 65px;
+}
+
+a{
+    display: inline;
+}
+svg{
+    display: inline;
+    grid-area: b;
+    transform: scale(.1);
+    padding-left:5px;
+    padding-top: 10px;
+}
+
+.phone{
+    padding-top: 20px;
+    font-size: 17px;
+    padding-left: 65px;
+}
+
+.web{
+    padding-top: 25px;
+    font-size: 17px;
+    padding-left: 65px;
+}
+
+
+
+
+/* step three - build a grid that becomes active when the pixels are 800px or less */
+@media screen and (max-width: 800px) {
+
+    .container{
+        display: grid;
+        grid-gap: 15px;
+        /* grid is only one column, keep this way */
+        grid-template-columns: 1fr;
+        /* you can enter values, or auto will adjust the box sizes based on content */
+        grid-template-rows: auto;
+        grid-template-areas:
+        "b"
+        "b"
+        "e"
+        "e"
+        "x"
+        "c"
+        "c";
+    }
+}
+
+/* step 1 - assign each of your sections a letter */
+
+header {
+    grid-area: b;
+    padding-top: 4px;
+}
+
+p {
+    grid-area: b;
+    padding-top: 20px;
+    font-weight: 300;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.work {
+    grid-area: x;
+    padding-left: 150px;
+}
+
+.connect {
+    grid-area: b;
+}
+
+.education {
+    grid-area: e;
+    padding-left: 150px;
+}
+
+.awards {
+    grid-area: c;
+    padding-left: 150px;
+}
+
+
+
+
