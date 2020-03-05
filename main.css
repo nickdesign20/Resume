@@ -44,6 +44,10 @@ li{
     margin-right: 100px;
 }
 
+.coll {
+    margin-right: 150px;
+}
+
 body{
     font-size: 1.5em;
     font-family: 'Roboto', sans-serif;
@@ -225,8 +229,20 @@ a{
         "c";
     }
     body{
-        background-color: coral;
+        background-image: url(Mobile-back.svg);
+        background-repeat: no-repeat;
     }
+    li {
+        padding-left: 10px;
+    }
+    h3 {
+        padding-left: 0px;
+    }
+    .education {
+        padding: 0px;
+    }
+    
+    
 }
 
 /* step 1 - assign each of your sections a letter */
@@ -330,6 +346,10 @@ p {
     border-radius: 50%;
     display: inline-block;
  }
+
+
+    
+
 
 
 
