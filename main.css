@@ -1,5 +1,5 @@
 *{
-    /* outline: 2px dashed green; */
+    outline: 0px;
     margin: 0;
     padding:0;
 }
@@ -154,59 +154,43 @@ a{
     padding-top: 10px;
     vertical-align: middle;
 }
-/* svg{
-    display: inline-block;
-    transform: scale(.1);
-    padding-left:0px;
-    padding-top: 10px;
-} */
-
-/* .phone{
-    padding-top: 20px;
-    font-size: 17px;
-    padding-left: 65px;
-} */
-
-/* .gram{
-    padding-top: 0px;
-    font-size: 17px;
-    padding-left: 110px;
-    display: block;
-    
-} */
 
 .new{
     font-size: 15px;
     padding-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
 }
 
 .new1{
     font-size: 15px;
     padding-left: 16px;
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
 }
 
 .new2{
     font-size: 15px;
     padding-left: 13px;
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
 }
 
 .new3{
     font-size: 15px;
     padding-left: 7.5px;
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
 }
 
 .box{
     /* padding-top: 50px; */
     grid-area: b;
 }
-
-/* .web{
-    padding-top: 25px;
-    font-size: 17px;
-    padding-left: 65px;
-} */
-
-
 
 
 /* step three - build a grid that becomes active when the pixels are 800px or less */
@@ -238,14 +222,24 @@ a{
     h3 {
         padding-left: 0px;
     }
+
     .education {
-        padding: 0px;
+        grid-area: e;
+        padding-left: 0px;
+        margin-left: 0px;
+    }   
+    
+    .work {
+        grid-area: x;
+        padding-left: 0px;
+    }
+
+    .awards {
+        grid-area: c;
+        padding-left: 0px;
     }
     
-    
 }
-
-/* step 1 - assign each of your sections a letter */
 
 header {
     grid-area: b;
@@ -347,8 +341,27 @@ p {
     display: inline-block;
  }
 
-
-    
+ 
+ /* @media screen and (min-width: 1920px x 1080px) { 
+     .container {
+        padding:10%;
+        display: grid;
+        grid-gap: 25px;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: auto;
+        grid-template-areas: 
+         "b b b b e e e e e e . ."
+         "b b b b e e e e e e . ."
+         "b b b b x x x x x x . ."
+         "b b b b c c c c c c . ."
+         "b b b b c c c c c c . .";
+}
+    .education {
+        grid-area: e;
+        padding-left: 150px;
+}
+ } */
+ 
 
 
 
