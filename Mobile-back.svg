@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 4459.1" style="enable-background:new 0 0 792 4459.1;" xml:space="preserve">
 <style type="text/css">
@@ -8,16 +8,15 @@
 	.st2{opacity:0.1;fill:#AFDFE0;enable-background:new    ;}
 	.st3{opacity:0.1;fill:#936CAE;enable-background:new    ;}
 	.st4{opacity:0.1;fill:#F2B355;enable-background:new    ;}
-	.st5{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <circle class="st0" cx="299.9" cy="377.9" r="92.1"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 68.6399 358.7648)" class="st1" cx="467.4" cy="96.5" rx="63.4" ry="63.4"/>
+<ellipse class="st1" cx="467.4" cy="96.5" rx="63.4" ry="63.4"/>
 <circle class="st2" cx="398.4" cy="582.3" r="144.7"/>
 <circle class="st3" cx="230.4" cy="239.8" r="57.6"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.857 425.851)" class="st2" cx="455.6" cy="354" rx="74.3" ry="74.3"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.8772 425.8528)" class="st2" cx="455.6" cy="354" rx="74.3" ry="74.3"/>
 <circle class="st1" cx="400.7" cy="424.4" r="30.6"/>
 <circle class="st1" cx="435.8" cy="223.1" r="66.9"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -283.3338 597.9283)" class="st3" cx="209.7" cy="465.5" rx="30.6" ry="30.6"/>
+<ellipse class="st3" cx="209.8" cy="465.5" rx="30.6" ry="30.6"/>
 <circle class="st2" cx="429.6" cy="462" r="15.7"/>
 <circle class="st3" cx="438.3" cy="438.4" r="8.3"/>
 <circle class="st3" cx="454.6" cy="461.1" r="8.3"/>
@@ -37,8 +36,8 @@
 <circle class="st3" cx="376.8" cy="314.3" r="6.4"/>
 <circle class="st1" cx="387.9" cy="312.1" r="4.5"/>
 <circle class="st4" cx="381.3" cy="324.5" r="3.7"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 246.1464 625.2353)" class="st4" cx="490.5" cy="168" rx="9.7" ry="9.7"/>
-<circle class="st3" cx="512" cy="158.5" r="6.4"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 246.1643 625.2887)" class="st4" cx="490.6" cy="168" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 273.5334 638.4999)" class="st3" cx="512" cy="158.5" rx="6.4" ry="6.4"/>
 <circle class="st2" cx="501" cy="189.4" r="6"/>
 <circle class="st1" cx="476.9" cy="163.8" r="3.9"/>
 <circle class="st1" cx="494.2" cy="181.2" r="3.7"/>
@@ -68,13 +67,13 @@
 <circle class="st2" cx="591.3" cy="814.4" r="144.7"/>
 <circle class="st3" cx="596" cy="1195.9" r="57.6"/>
 <circle class="st2" cx="441.6" cy="996.1" r="74.3"/>
-<circle class="st1" cx="521.5" cy="956" r="30.6"/>
+<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -326.1486 272.3406)" class="st1" cx="521.5" cy="956" rx="30.6" ry="30.6"/>
 <circle class="st1" cx="403.4" cy="1122.6" r="66.9"/>
 <circle class="st3" cx="572.3" cy="633.9" r="30.6"/>
-<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -317.7874 257.8564)" class="st4" cx="489.3" cy="927.7" rx="9.7" ry="9.7"/>
+<ellipse class="st4" cx="489.3" cy="927.7" rx="9.7" ry="9.7"/>
 <circle class="st2" cx="486.4" cy="1112.7" r="15.7"/>
 <circle class="st3" cx="473.4" cy="1091.9" r="8.3"/>
-<circle class="st3" cx="511.6" cy="1106.3" r="10.3"/>
+<ellipse transform="matrix(0.9951 -9.853777e-02 9.853777e-02 0.9951 -106.5225 55.7959)" class="st3" cx="511.6" cy="1106.3" rx="10.3" ry="10.3"/>
 <circle class="st1" cx="499.6" cy="1096.4" r="4.5"/>
 <circle class="st4" cx="497.7" cy="1082" r="9.7"/>
 <circle class="st4" cx="462.4" cy="1075.6" r="7"/>
@@ -126,20 +125,20 @@
 <circle class="st1" cx="368.1" cy="1047.5" r="2.1"/>
 <circle class="st2" cx="377.2" cy="1046.5" r="2.7"/>
 <circle class="st0" cx="349.7" cy="1735.8" r="92.1"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -876.9271 791.6518)" class="st1" cx="517.1" cy="1454.4" rx="63.4" ry="63.4"/>
+<ellipse class="st1" cx="517.1" cy="1454.4" rx="63.4" ry="63.4"/>
 <circle class="st2" cx="448.2" cy="1940.2" r="144.7"/>
 <circle class="st3" cx="280.1" cy="1597.7" r="57.6"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1062.424 858.7379)" class="st2" cx="505.4" cy="1711.8" rx="74.3" ry="74.3"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1062.3977 858.7119)" class="st2" cx="505.4" cy="1711.8" rx="74.3" ry="74.3"/>
 <circle class="st1" cx="450.5" cy="1782.2" r="30.6"/>
 <circle class="st1" cx="485.6" cy="1580.9" r="66.9"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -1581.8574 1787.3843)" class="st3" cx="259.5" cy="1823.3" rx="30.6" ry="30.6"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -1581.8525 1787.375)" class="st3" cx="259.5" cy="1823.3" rx="30.6" ry="30.6"/>
 <circle class="st2" cx="479.4" cy="1819.8" r="15.7"/>
 <circle class="st3" cx="488" cy="1796.3" r="8.3"/>
 <circle class="st3" cx="504.3" cy="1819" r="8.3"/>
 <circle class="st4" cx="506.8" cy="1797.3" r="9.7"/>
 <circle class="st1" cx="518" cy="1821.3" r="4.5"/>
 <circle class="st1" cx="496.5" cy="1807.6" r="4.5"/>
-<circle class="st2" cx="515.7" cy="1810.5" r="5.6"/>
+<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -653.5935 335.1664)" class="st2" cx="515.7" cy="1810.5" rx="5.6" ry="5.6"/>
 <circle class="st2" cx="414.7" cy="1625.7" r="15.7"/>
 <circle class="st3" cx="435.4" cy="1638.9" r="8.3"/>
 <circle class="st3" cx="394.7" cy="1642.5" r="10.3"/>
@@ -152,7 +151,7 @@
 <circle class="st3" cx="426.5" cy="1672.2" r="6.4"/>
 <circle class="st1" cx="437.7" cy="1669.9" r="4.5"/>
 <circle class="st4" cx="431.1" cy="1682.3" r="3.7"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -1052.3772 1814.6917)" class="st4" cx="540.3" cy="1525.8" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -1052.347 1814.6843)" class="st4" cx="540.3" cy="1525.8" rx="9.7" ry="9.7"/>
 <circle class="st3" cx="561.7" cy="1516.3" r="6.4"/>
 <circle class="st2" cx="550.8" cy="1547.3" r="6"/>
 <circle class="st1" cx="526.6" cy="1521.7" r="3.9"/>
@@ -186,7 +185,7 @@
 <circle class="st1" cx="571.2" cy="2313.9" r="30.6"/>
 <circle class="st1" cx="453.1" cy="2480.5" r="66.9"/>
 <circle class="st3" cx="622" cy="1991.8" r="30.6"/>
-<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -833.6239 380.2572)" class="st4" cx="539" cy="2285.6" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -833.6605 380.2831)" class="st4" cx="539.1" cy="2285.6" rx="9.7" ry="9.7"/>
 <circle class="st2" cx="536.1" cy="2470.6" r="15.7"/>
 <circle class="st3" cx="523.1" cy="2449.7" r="8.3"/>
 <circle class="st3" cx="561.3" cy="2464.2" r="10.3"/>
@@ -199,7 +198,7 @@
 <circle class="st3" cx="545.4" cy="2423.5" r="6.4"/>
 <circle class="st1" cx="534.5" cy="2420.8" r="4.5"/>
 <circle class="st4" cx="545.8" cy="2412.4" r="3.7"/>
-<circle class="st4" cx="504.6" cy="2102.7" r="9.7"/>
+<ellipse transform="matrix(0.9951 -9.853745e-02 9.853745e-02 0.9951 -204.739 59.9551)" class="st4" cx="504.6" cy="2102.7" rx="9.7" ry="9.7"/>
 <circle class="st3" cx="481.2" cy="2102" r="6.4"/>
 <circle class="st2" cx="504.3" cy="2078.7" r="6"/>
 <circle class="st1" cx="529.1" cy="2493.9" r="3.9"/>
@@ -241,13 +240,13 @@
 <circle class="st1" cx="417.8" cy="2405.3" r="2.1"/>
 <circle class="st2" cx="426.9" cy="2404.3" r="2.7"/>
 <circle class="st0" cx="403" cy="3094.8" r="92.1"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1822.3059 1227.3684)" class="st1" cx="570.4" cy="2813.4" rx="63.4" ry="63.4"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1822.3096 1227.3427)" class="st1" cx="570.4" cy="2813.4" rx="63.4" ry="63.4"/>
 <circle class="st2" cx="501.5" cy="3299.2" r="144.7"/>
 <circle class="st3" cx="333.4" cy="2956.7" r="57.6"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2007.8029 1294.4546)" class="st2" cx="558.6" cy="3070.9" rx="74.3" ry="74.3"/>
-<circle class="st1" cx="503.7" cy="3141.3" r="30.6"/>
-<circle class="st1" cx="538.8" cy="2940" r="66.9"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -2878.6057 2981.3025)" class="st3" cx="312.7" cy="3182.3" rx="30.6" ry="30.6"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2007.8406 1294.4478)" class="st2" cx="558.6" cy="3070.9" rx="74.3" ry="74.3"/>
+<ellipse transform="matrix(3.327800e-02 -0.9994 0.9994 3.327800e-02 -2652.6223 3540.1848)" class="st1" cx="503.7" cy="3141.3" rx="30.6" ry="30.6"/>
+<ellipse transform="matrix(3.327791e-02 -0.9994 0.9994 3.327791e-02 -2417.5017 3380.6646)" class="st1" cx="538.8" cy="2940" rx="66.9" ry="66.9"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -2878.7019 2981.3198)" class="st3" cx="312.7" cy="3182.4" rx="30.6" ry="30.6"/>
 <circle class="st2" cx="532.6" cy="3178.8" r="15.7"/>
 <circle class="st3" cx="541.3" cy="3155.3" r="8.3"/>
 <circle class="st3" cx="557.6" cy="3178" r="8.3"/>
@@ -260,14 +259,14 @@
 <circle class="st3" cx="448" cy="3001.5" r="10.3"/>
 <circle class="st1" cx="463.1" cy="3005" r="4.5"/>
 <circle class="st4" cx="470.9" cy="3017.4" r="9.7"/>
-<circle class="st4" cx="505.6" cy="3008.1" r="7"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -2544.646 3025.3269)" class="st4" cx="505.6" cy="3008.1" rx="7" ry="7"/>
 <circle class="st1" cx="476.5" cy="3003.6" r="4.5"/>
 <circle class="st2" cx="457.1" cy="3013.3" r="3.7"/>
 <circle class="st2" cx="490.5" cy="3015.7" r="8.7"/>
 <circle class="st3" cx="479.8" cy="3031.2" r="6.4"/>
 <circle class="st1" cx="490.9" cy="3028.9" r="4.5"/>
 <circle class="st4" cx="484.3" cy="3041.3" r="3.7"/>
-<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -2349.1255 3008.6099)" class="st4" cx="593.5" cy="2884.8" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -2349.1965 3008.6292)" class="st4" cx="593.5" cy="2884.9" rx="9.7" ry="9.7"/>
 <circle class="st3" cx="615" cy="2875.3" r="6.4"/>
 <circle class="st2" cx="604.1" cy="2906.3" r="6"/>
 <circle class="st1" cx="579.9" cy="2880.7" r="3.9"/>
@@ -280,7 +279,7 @@
 <circle class="st2" cx="608.6" cy="2955.4" r="3.5"/>
 <circle class="st4" cx="607.8" cy="2949.5" r="2.3"/>
 <circle class="st4" cx="640" cy="2929.4" r="33"/>
-<circle class="st0" cx="429" cy="2817.3" r="92.1"/>
+<ellipse transform="matrix(3.327796e-02 -0.9994 0.9994 3.327796e-02 -2401.0159 3152.3083)" class="st0" cx="429" cy="2817.3" rx="92.1" ry="92.1"/>
 <circle class="st2" cx="314.2" cy="2865" r="31"/>
 <circle class="st3" cx="428.2" cy="2933.1" r="16.5"/>
 <circle class="st4" cx="422.8" cy="2976.1" r="19.2"/>
@@ -300,7 +299,7 @@
 <circle class="st1" cx="561.6" cy="3551.4" r="30.6"/>
 <circle class="st1" cx="443.5" cy="3718" r="66.9"/>
 <circle class="st3" cx="675.3" cy="3350.8" r="30.6"/>
-<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -1307.9363 470.7844)" class="st4" cx="529.4" cy="3523.1" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -1307.9803 470.8176)" class="st4" cx="529.5" cy="3523.2" rx="9.7" ry="9.7"/>
 <circle class="st2" cx="526.5" cy="3708.1" r="15.7"/>
 <circle class="st3" cx="513.5" cy="3687.3" r="8.3"/>
 <circle class="st3" cx="551.7" cy="3701.7" r="10.3"/>
@@ -326,7 +325,7 @@
 <circle class="st2" cx="387.2" cy="3674" r="3.5"/>
 <circle class="st4" cx="385.1" cy="3679.8" r="2.3"/>
 <circle class="st4" cx="365.3" cy="3928" r="33"/>
-<circle class="st0" cx="489.8" cy="3876" r="92.1"/>
+<ellipse transform="matrix(3.327796e-02 -0.9994 0.9994 3.327796e-02 -3400.3528 4236.5435)" class="st0" cx="489.8" cy="3876" rx="92.1" ry="92.1"/>
 <circle class="st2" cx="613.9" cy="3882.4" r="31"/>
 <circle class="st3" cx="540.4" cy="3771.7" r="16.5"/>
 <circle class="st4" cx="563.7" cy="3735.4" r="19.2"/>
@@ -354,15 +353,15 @@
 <circle class="st3" cx="413.2" cy="3647" r="3.9"/>
 <circle class="st1" cx="408.2" cy="3642.9" r="2.1"/>
 <circle class="st2" cx="417.3" cy="3641.8" r="2.7"/>
-<circle class="st4" cx="584.6" cy="4097.7" r="92.1"/>
+<ellipse transform="matrix(3.327796e-02 -0.9994 0.9994 3.327796e-02 -3530.2849 4545.6133)" class="st4" cx="584.6" cy="4097.7" rx="92.1" ry="92.1"/>
 <circle class="st3" cx="588.1" cy="4252.3" r="57.6"/>
 <circle class="st2" cx="433.6" cy="4052.5" r="74.3"/>
-<circle class="st1" cx="513.5" cy="4012.4" r="30.6"/>
+<ellipse transform="matrix(3.327800e-02 -0.9994 0.9994 3.327800e-02 -3513.7659 4392.0908)" class="st1" cx="513.5" cy="4012.4" rx="30.6" ry="30.6"/>
 <circle class="st1" cx="395.4" cy="4179" r="66.9"/>
-<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -1488.0261 487.4689)" class="st4" cx="481.3" cy="3984.1" rx="9.7" ry="9.7"/>
+<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -1488.0664 487.502)" class="st4" cx="481.4" cy="3984.2" rx="9.7" ry="9.7"/>
 <circle class="st2" cx="478.4" cy="4169.1" r="15.7"/>
 <circle class="st3" cx="465.4" cy="4148.3" r="8.3"/>
-<circle class="st3" cx="503.6" cy="4162.7" r="10.3"/>
+<ellipse transform="matrix(1.850882e-02 -0.9998 0.9998 1.850882e-02 -3667.7083 4589.1675)" class="st3" cx="503.6" cy="4162.7" rx="10.3" ry="10.3"/>
 <circle class="st1" cx="491.6" cy="4152.8" r="4.5"/>
 <circle class="st4" cx="489.8" cy="4138.4" r="9.7"/>
 <circle class="st4" cx="454.5" cy="4132" r="7"/>
@@ -377,17 +376,16 @@
 <circle class="st2" cx="339.1" cy="4135.1" r="3.5"/>
 <circle class="st4" cx="337" cy="4140.8" r="2.3"/>
 <circle class="st4" cx="317.2" cy="4389" r="33"/>
-<circle class="st0" cx="441.7" cy="4337" r="92.1"/>
+<ellipse transform="matrix(3.327796e-02 -0.9994 0.9994 3.327796e-02 -3907.5967 4634.1289)" class="st0" cx="441.7" cy="4337" rx="92.1" ry="92.1"/>
 <circle class="st2" cx="565.8" cy="4343.4" r="31"/>
 <circle class="st3" cx="492.3" cy="4232.7" r="16.5"/>
 <circle class="st4" cx="515.6" cy="4196.4" r="19.2"/>
-<circle class="st1" cx="515" cy="4248.6" r="9.1"/>
+<ellipse transform="matrix(3.327814e-02 -0.9994 0.9994 3.327814e-02 -3748.3853 4621.9292)" class="st1" cx="515" cy="4248.6" rx="9.1" ry="9.1"/>
 <circle class="st1" cx="488.1" cy="4205.7" r="9.1"/>
-<circle class="st2" cx="520.1" cy="4227.4" r="11.1"/>
+<ellipse transform="matrix(3.327810e-02 -0.9994 0.9994 3.327810e-02 -3722.2664 4606.5317)" class="st2" cx="520.1" cy="4227.4" rx="11.1" ry="11.1"/>
 <circle class="st2" cx="353.9" cy="4111.1" r="7.2"/>
 <circle class="st3" cx="355.2" cy="4099.6" r="3.9"/>
 <circle class="st3" cx="365.1" cy="4108" r="3.9"/>
 <circle class="st1" cx="360.1" cy="4103.9" r="2.1"/>
 <circle class="st2" cx="369.2" cy="4102.9" r="2.7"/>
-<line class="st5" x1="100.3" y1="1628.4" x2="699" y2="1628.4"/>
 </svg>

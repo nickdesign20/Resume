@@ -3,6 +3,10 @@
     margin: 0;
     padding:0;
 }
+
+.padding-left {
+    padding-left: 50px;
+}
 /* @media screen and (max-width: 600px) {
 .container {
     height: 100%;
@@ -20,6 +24,7 @@
  */
 /* step one - build your grid */
 .container {
+    justify-content: center;
     /* background-color: aquamarine; */
     padding:10%;
     /* height: 100%; */
@@ -31,11 +36,11 @@
     grid-template-rows: auto;
     /* use letters from step 2 to build the grid */
     grid-template-areas: 
-        "b b b b e e e e e e . ."
-        "b b b b e e e e e e . ."
-        "b b b b x x x x x x . ."
-        "b b b b c c c c c c . ."
-        "b b b b c c c c c c . .";
+        "b b b b . e e e e e . ."
+        "b b b b . e e e e e . ."
+        "b b b b . x x x x x . ."
+        "b b b b . c c c c c . ."
+        "b b b b . c c c c c . .";
 }
 li{
     font-weight: 300;
@@ -225,18 +230,16 @@ a{
 
     .education {
         grid-area: e;
-        padding-left: 0px;
-        margin-left: 0px;
+
     }   
     
     .work {
         grid-area: x;
-        padding-left: 0px;
+
     }
 
     .awards {
         grid-area: c;
-        padding-left: 0px;
     }
     
 }
@@ -257,7 +260,6 @@ p {
 
 .work {
     grid-area: x;
-    padding-left: 150px;
 }
 
 .connect {
@@ -266,7 +268,6 @@ p {
 
 .education {
     grid-area: e;
-    padding-left: 150px;
 }
 
 .dates{
@@ -277,7 +278,6 @@ p {
 
 .awards {
     grid-area: c;
-    padding-left: 150px;
 }
 
 
